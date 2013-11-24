@@ -1,0 +1,8 @@
+{
+  "name": "src-reboot",
+  "version": "0.0.0",
+  "description": "Wrappers for reboot",
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "MIT",
+  "main": "build/Release/binding.node"
+}
